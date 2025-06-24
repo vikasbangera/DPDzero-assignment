@@ -1,0 +1,31 @@
+# macOS system files
+__MACOSX/
+.DS_Store
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+.venv/
+env/
+venv/
+*.egg-info/
+*.egg
+*.log
+
+# Go
+/service_1/service1
+/service_1/service1.exe
+
+# Docker
+*.pid
+
+# VSCode
+.vscode/
+
+# OS junk
+Thumbs.db
+ehthumbs.db
+Icon?
